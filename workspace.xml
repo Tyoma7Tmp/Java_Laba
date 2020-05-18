@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8dac984a-2dca-48ec-bfad-c8fcc2e4b395" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZUCiWgrWyUEyKJDtGB0f7xB0zL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Game(KPP)/src/com/thebyteguru/main/Main.java" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pnfy.game.Game" />
+      <module name="Tet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pnfy.game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Game" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8dac984a-2dca-48ec-bfad-c8fcc2e4b395" name="Default Changelist" comment="" />
+      <created>1584884412321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584884412321</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="566" y="297" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584886893691">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="297" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1584886893691" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1584886045603">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584886045603" />
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom" timestamp="1589787519097">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589787519097" />
+    <state width="1493" height="203" key="GridCell.Tab.0.center" timestamp="1589787519097">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589787519097" />
+    <state width="1493" height="203" key="GridCell.Tab.0.left" timestamp="1589787519097">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589787519097" />
+    <state width="1493" height="203" key="GridCell.Tab.0.right" timestamp="1589787519097">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589787519097" />
+    <state width="1493" height="210" key="GridCell.Tab.1.bottom" timestamp="1589745760218">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589745760218" />
+    <state width="1493" height="210" key="GridCell.Tab.1.center" timestamp="1589745760218">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1589745760218" />
+    <state width="1493" height="210" key="GridCell.Tab.1.left" timestamp="1589745760218">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1589745760218" />
+    <state width="1493" height="210" key="GridCell.Tab.1.right" timestamp="1589745760218">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1589745760218" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1589776872320">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1589776872320" />
+    <state x="345" y="148" width="846" height="601" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1584884869089">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="345" y="148" width="846" height="601" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1584884869089" />
+  </component>
+</project>
